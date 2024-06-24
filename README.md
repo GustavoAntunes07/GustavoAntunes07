@@ -1,7 +1,12 @@
 <h1 align="center">Hello there!</h1>
 
 <div style="padding-left: auto">
-   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+   <a href="https://www.linkedin.com/in/gustavo-oliveira-778288250/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://leetcode.com/u/gustavoantunes07/">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+   </a>
 </div>
 
 <br/>
