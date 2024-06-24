@@ -1,9 +1,7 @@
 <h1 align="center">Hello there!</h1>
 
 <div style="padding-left: auto">
-   <li>⚙️ Working with: Front-End</li>
-   <li>🤔 Learning: TypeScript</li>
-   <li>✉️ Contact: gustavoantunes64@outlook.com</li>
+   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </div>
 
 <br/>
@@ -11,7 +9,6 @@
 <div align="center">
  <a href="http://github.com/GustavoAntunes07">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAntunes07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoantunes07&layout=donut&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
