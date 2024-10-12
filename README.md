@@ -4,7 +4,7 @@
    <a href="https://www.linkedin.com/in/gustavo-oliveira-778288250/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="gustavoantunes64@outlook.com">
+   <a href="mailto: gustavoantunes64@outlook.com">
       <img src="https://img.shields.io/badge/-EMail-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white"  target="_blank"/>
    </a>
 </div>
