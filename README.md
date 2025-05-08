@@ -11,9 +11,10 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  <a href="http://github.com/GustavoAntunes07">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAntunes07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoAntunes&cache_seconds=21600&langs_count=7&layout=compact&theme=dark&hide_border=true&border_radius=12">
 </div>
 
 
