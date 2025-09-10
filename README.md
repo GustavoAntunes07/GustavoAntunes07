@@ -13,6 +13,7 @@
 
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAntunes07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAntunes07&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 
