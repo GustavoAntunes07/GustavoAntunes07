@@ -13,7 +13,7 @@
 
 <div align="center">
  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoAntunes07&theme=2077"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoAntunes07&theme=2077" alt="Top Languages"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoAntunes07&theme=2077" alt="Top Languages"/>
 </div>
 
 
